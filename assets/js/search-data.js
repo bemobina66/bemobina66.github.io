@@ -162,6 +162,16 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/First_project/";
+            },},{id: "projects-scond-project",
+          title: 'Scond Project',
+          description: "Intelligent Chatbot Description",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Second_project/";
+            },},{id: "projects-third-project",
+          title: 'Third Project',
+          description: "Home Assistant Robot Description",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Third_project/";
             },},{
         id: 'social-email',
         title: 'email',
