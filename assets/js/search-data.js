@@ -157,6 +157,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-first-project",
+          title: 'First Project',
+          description: "an other project with a background image and giscus comments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/First_project/";
             },},{
         id: 'social-email',
         title: 'email',
