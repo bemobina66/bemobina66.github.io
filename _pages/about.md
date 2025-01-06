@@ -6,16 +6,16 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: AI.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Mabani class</p>
+    <p>IUST UNi</p>
+    <p>Tehran , Iran</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-to this task
+Hello, I am Mobina Barghamdi, a computer engineering student at Iran University of Science and Technology. I am very interested in the field of artificial intelligence and robotics and I am trying to become an expert in this field so that I can use this knowledge in cases that need improvement.
