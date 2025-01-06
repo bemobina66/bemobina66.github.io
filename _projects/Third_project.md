@@ -7,7 +7,8 @@ importance: 2
 category: work
 giscus_comments: true
 ---
- Home Assistant Robot Description: This project involves designing a home assistant robot that can perform simple tasks such as turning lights on and off, adjusting temperature settings, and providing information to users. The robot operates using AI and Internet of Things (IoT) technology.
+
+Home Assistant Robot Description: This project involves designing a home assistant robot that can perform simple tasks such as turning lights on and off, adjusting temperature settings, and providing information to users. The robot operates using AI and Internet of Things (IoT) technology.
 
  <div class="row">
     <div class="col-sm mt-3 mt-md-0">

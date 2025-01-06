@@ -7,7 +7,6 @@
     "phone": "09124860200",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A computer student in Tehran"
-
   },
   "work": [
     {
@@ -17,7 +16,6 @@
       "endDate": "2026",
       "summary": "Software."
     }
- 
   ],
   "education": [
     {
@@ -29,4 +27,4 @@
       "endDate": "2026"
     }
   ]
-  }
+}
